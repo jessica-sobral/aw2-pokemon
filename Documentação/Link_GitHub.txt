@@ -1,0 +1,7 @@
+Integrantes da Equipe:
+
+Jéssica Sobral Silva - SP3046273 
+José Carlos De Viveiros Junior - SP3044939
+Kaio Victtor Santos Andrade Galvão - SP3044131
+
+Link do GitHub para o projeto Pokémon: https://github.com/jessica-sobral/aw2-pokemon
